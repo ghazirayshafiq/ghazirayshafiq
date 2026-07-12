@@ -1,5 +1,5 @@
-﻿<h1 align="center">Hi 👋, I'm Ghazi Ray</h1>
-<h3 align="center">Aspiring DevOps Engineer & CS Student from Indonesia 🇮🇩</h3>
+<h1 align="center">Hi 👋, I'm Ghazi Rayshafiq Elfandi</h1>
+<!-- <h3 align="center">Aspiring DevOps Engineer & CS Student from Indonesia 🇮🇩</h3> -->
 
 <p align="center">
   🚀 Building full-stack web apps with <b>React & Laravel</b><br/>
@@ -14,12 +14,11 @@
 
 ## 🙋 About Me
 
-- 🎓 Information System Student, aspiring **DevOps Engineer**
+- 🎓 Information System Student
 - 🇮🇩 Based in Indonesia
 - ⚙️ Focused on **Cloud Infrastructure · CI/CD · Automation**
 - 🌱 Currently learning **Docker, Kubernetes, Linux & GitHub Actions**
 - 🔧 Building full-stack apps with **React & Laravel**
-- 📫 Reach me at **ghazirayshafiqa@gmail.com**
 - ⚡ *"Infrastructure is just code waiting to be written"*
 
 ---
@@ -65,14 +64,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghazirayshafiq&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&icon_color=0ea5e9" alt="GitHub Stats"/>
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghazirayshafiq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&langs_count=8" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ghazirayshafiq&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&icon_color=0ea5e9" alt="GitHub Stats"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ghazirayshafiq&theme=tokyonight&background=0d1117&stroke=1e3a5f&ring=0ea5e9&fire=38bdf8&currStreakNum=ffffff&sideNums=94a3b8&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b&hide_border=true" alt="GitHub Streak"/>
-</p>
 
 ---
 
