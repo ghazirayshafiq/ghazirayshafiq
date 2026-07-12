@@ -64,7 +64,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghazirayshafiq&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&icon_color=0ea5e9" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=ghazirayshafiq&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&icon_color=0ea5e9" alt="GitHub Stats"/>
 </p>
 
 
