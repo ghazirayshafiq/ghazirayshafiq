@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=🚀+Aspiring+DevOps+Engineer;🎓+Computer+Science+Student;🌐+Full+Stack+Web+Developer;⚙️+Infrastructure+%26+Automation+Enthusiast;☁️+Learning+Cloud+%26+CI%2FCD+Pipelines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=🚀+Aspiring+DevOps+Engineer;🎓+Computer+Science+Student;🌐+Full+Stack+Web+Developer;⚙️+Infrastructure+%26+Automation+Enthusiast;☁️+Learning+Cloud+%26+CI%2FCD+Pipelines" alt="" />
 </a>
 
 <br/>
@@ -149,15 +149,15 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghazirayshafiq&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&icon_color=0ea5e9&border_color=1e3a5f" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ghazirayshafiq&show_icons=true&theme=tokyonight&count_private=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&icon_color=0ea5e9&border_color=1e3a5f&hide_border=false" alt="GitHub Stats"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghazirayshafiq&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&border_color=1e3a5f&langs_count=8" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ghazirayshafiq&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&border_color=1e3a5f&langs_count=8&hide_border=false" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ghazirayshafiq&theme=tokyonight&background=0d1117&stroke=1e3a5f&ring=0ea5e9&fire=38bdf8&currStreakNum=ffffff&sideNums=94a3b8&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=ghazirayshafiq&theme=tokyonight&background=0d1117&stroke=1e3a5f&ring=0ea5e9&fire=38bdf8&currStreakNum=ffffff&sideNums=94a3b8&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b&hide_border=false" alt="GitHub Streak"/>
 
 </div>
 
@@ -167,7 +167,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ghazirayshafiq&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ghazirayshafiq&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&column=4&row=2" alt="GitHub Trophies"/>
 
 </div>
 
