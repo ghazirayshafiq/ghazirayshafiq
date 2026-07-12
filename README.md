@@ -12,7 +12,7 @@
 
 <!-- Social Badges -->
 <p>
-  <a href="https://linkedin.com/in/ghaziray" target="_blank">
+  <a href="https://www.linkedin.com/in/ghazi-rayshafiq-elfandi-411035292" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-GhaziRay-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
   </a>
   &nbsp;
@@ -20,13 +20,13 @@
     <img src="https://img.shields.io/badge/Instagram-@ghaziray-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
   </a>
   &nbsp;
-  <a href="mailto:ghaziray@email.com" target="_blank">
+  <a href="mailto:ghazirayshafiqa@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0ea5e9" alt="Email"/>
   </a>
 </p>
 
 <!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=GhaziRay&color=0ea5e9&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=ghazirayshafiq&color=0ea5e9&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 
 </div>
 
@@ -34,21 +34,78 @@
 
 ## 👨‍💻 About Me
 
-```yaml
-name       : Ghazi Ray
-status     : 🎓 Computer Science Student
-goal       : 🚀 Aspiring DevOps Engineer
-location   : 🇮🇩 Indonesia
-focus      : Cloud Infrastructure • CI/CD • Automation
-currently  :
-  - learning  : "Docker, Kubernetes, Linux, GitHub Actions"
-  - building  : "Full-stack web apps with React & Laravel"
-  - exploring : "Cloud platforms (AWS / GCP) & DevOps practices"
-ask_me_about: ["Web Dev", "DevOps", "Linux", "Databases"]
-fun_fact   : "I believe infrastructure is just code waiting to be written 🛠️"
-```
+<table>
+  <tr>
+    <td valign="top" width="60%">
+
+### 🧑‍💻 Who Am I?
+
+<table>
+  <tr>
+    <td>🎓</td>
+    <td><b>Status</b></td>
+    <td>Computer Science Student</td>
+  </tr>
+  <tr>
+    <td>🚀</td>
+    <td><b>Goal</b></td>
+    <td>Aspiring DevOps Engineer</td>
+  </tr>
+  <tr>
+    <td>🇮🇩</td>
+    <td><b>Location</b></td>
+    <td>Indonesia</td>
+  </tr>
+  <tr>
+    <td>⚙️</td>
+    <td><b>Focus</b></td>
+    <td>Cloud Infrastructure · CI/CD · Automation</td>
+  </tr>
+  <tr>
+    <td>📫</td>
+    <td><b>Email</b></td>
+    <td>ghazirayshafiqa@gmail.com</td>
+  </tr>
+  <tr>
+    <td>💬</td>
+    <td><b>Ask me about</b></td>
+    <td>Web Dev · DevOps · Linux · Databases</td>
+  </tr>
+  <tr>
+    <td>⚡</td>
+    <td><b>Fun Fact</b></td>
+    <td>Infrastructure is just code waiting to be written 🛠️</td>
+  </tr>
+</table>
+
+<br/>
+
+### 🌱 Currently...
+
+| | |
+|---|---|
+| 📚 **Learning** | Docker, Kubernetes, Linux, GitHub Actions |
+| 🔧 **Building** | Full-stack web apps with React & Laravel |
+| ☁️ **Exploring** | Cloud platforms (AWS / GCP) & DevOps practices |
+
+</td>
+    <td valign="top" width="40%" align="center">
+
+<br/><br/><br/>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding GIF"/>
+
+<br/>
+
+> *"First, solve the problem. Then, write the code."*
+> — John Johnson
+
+</td>
+  </tr>
+</table>
 
 ---
+
 
 ## 🛠️ Tech Stack & Tools
 
@@ -92,15 +149,15 @@ fun_fact   : "I believe infrastructure is just code waiting to be written 🛠�
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GhaziRay&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&icon_color=0ea5e9&border_color=1e3a5f" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghazirayshafiq&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&icon_color=0ea5e9&border_color=1e3a5f" alt="GitHub Stats"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhaziRay&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&border_color=1e3a5f&langs_count=8" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghazirayshafiq&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&border_color=1e3a5f&langs_count=8" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GhaziRay&theme=tokyonight&background=0d1117&stroke=1e3a5f&ring=0ea5e9&fire=38bdf8&currStreakNum=ffffff&sideNums=94a3b8&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ghazirayshafiq&theme=tokyonight&background=0d1117&stroke=1e3a5f&ring=0ea5e9&fire=38bdf8&currStreakNum=ffffff&sideNums=94a3b8&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b" alt="GitHub Streak"/>
 
 </div>
 
@@ -110,7 +167,7 @@ fun_fact   : "I believe infrastructure is just code waiting to be written 🛠�
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=GhaziRay&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ghazirayshafiq&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
 
 </div>
 
@@ -120,7 +177,7 @@ fun_fact   : "I believe infrastructure is just code waiting to be written 🛠�
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GhaziRay&bg_color=0d1117&color=38bdf8&line=0ea5e9&point=ffffff&area=true&area_color=0ea5e920&hide_border=true" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ghazirayshafiq&bg_color=0d1117&color=38bdf8&line=0ea5e9&point=ffffff&area=true&area_color=0ea5e920&hide_border=true" alt="Activity Graph"/>
 
 </div>
 
@@ -135,6 +192,20 @@ fun_fact   : "I believe infrastructure is just code waiting to be written 🛠�
 | Docker & Kubernetes | Full-stack Web Apps | AWS / GCP Basics |
 | CI/CD Pipelines | REST APIs with Laravel | Infrastructure as Code |
 | Linux Administration | React Frontend UIs | Cloud-native Architecture |
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghazirayshafiq/ghazirayshafiq/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ghazirayshafiq/ghazirayshafiq/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ghazirayshafiq/ghazirayshafiq/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
