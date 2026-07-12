@@ -34,77 +34,16 @@
 
 ## 👨‍💻 About Me
 
-<table>
-  <tr>
-    <td valign="top" width="60%">
-
-### 🧑‍💻 Who Am I?
-
-<table>
-  <tr>
-    <td>🎓</td>
-    <td><b>Status</b></td>
-    <td>Computer Science Student</td>
-  </tr>
-  <tr>
-    <td>🚀</td>
-    <td><b>Goal</b></td>
-    <td>Aspiring DevOps Engineer</td>
-  </tr>
-  <tr>
-    <td>🇮🇩</td>
-    <td><b>Location</b></td>
-    <td>Indonesia</td>
-  </tr>
-  <tr>
-    <td>⚙️</td>
-    <td><b>Focus</b></td>
-    <td>Cloud Infrastructure · CI/CD · Automation</td>
-  </tr>
-  <tr>
-    <td>📫</td>
-    <td><b>Email</b></td>
-    <td>ghazirayshafiqa@gmail.com</td>
-  </tr>
-  <tr>
-    <td>💬</td>
-    <td><b>Ask me about</b></td>
-    <td>Web Dev · DevOps · Linux · Databases</td>
-  </tr>
-  <tr>
-    <td>⚡</td>
-    <td><b>Fun Fact</b></td>
-    <td>Infrastructure is just code waiting to be written 🛠️</td>
-  </tr>
-</table>
-
-<br/>
-
-### 🌱 Currently...
-
-| | |
-|---|---|
-| 📚 **Learning** | Docker, Kubernetes, Linux, GitHub Actions |
-| 🔧 **Building** | Full-stack web apps with React & Laravel |
-| ☁️ **Exploring** | Cloud platforms (AWS / GCP) & DevOps practices |
-
-</td>
-    <td valign="top" width="40%" align="center">
-
-<br/><br/><br/>
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding GIF"/>
-
-<br/>
-
-> *"First, solve the problem. Then, write the code."*
-> — John Johnson
-
-</td>
-  </tr>
-</table>
+- 🎓 Computer Science Student, aspiring **DevOps Engineer**
+- 🇮🇩 Based in Indonesia
+- ⚙️ Focused on **Cloud Infrastructure · CI/CD · Automation**
+- 🌱 Currently learning **Docker, Kubernetes, Linux & GitHub Actions**
+- 🔧 Building full-stack apps with **React & Laravel**
+- 📫 Reach me at **ghazirayshafiqa@gmail.com**
+- ⚡ *"Infrastructure is just code waiting to be written"*
 
 ---
+
 
 
 ## 🛠️ Tech Stack & Tools
